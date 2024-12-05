@@ -5,7 +5,7 @@
 
 - **Authentic 16x textures** inspired by Minecraft’s original design.
 - **Full LabPBR support**, including normalmaps, specular highlights, and more!
-- **High Compatibility**, seamlessly works with both **Iris** and **OptiFine**.
+- **High Compatibility**, seamlessly works with both **Iris** and **OptiFine** shaders.
 - **Preserves nostalgia** with textures designed to keep the legacy look intact while modernizing the feel.
 
 Whether you’re seeking nostalgia or looking for beautiful visuals, Legacy Reforged bridges the best of both worlds!
