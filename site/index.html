@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Nexus RTX</title>
+
+    <meta property="og:title" content="Legacy Reforged">
+    <meta property="og:description" content="Reimagining Minecraft with beautiful visuals while preserving its classic aesthetic.">
+    <meta property="og:image" content="https://legacy-reforged.xcloud.zip/media/embed.jpg">
+    <meta property="og:url" content="https://legacy-reforged.xcloud.zip">
+    <meta property="og:type" content="website">
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="msapplication-config" content="/browserconfig.xml">
+
+    <style>
+        /* Body background */
+        body {
+            background-color: #3e3e3e;
+        }
+
+        /* Background video */
+        #hero video {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            filter: blur(15px);
+            z-index: 1;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Hero Section -->
+<section id="hero">
+    <!-- Background Video -->
+    <video id="background-video" autoplay playsinline loop>
+        <source src="/media/animation.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <div class="content">
+        <img src="/media/logo.png" alt="Nexus RTX" class="hero-title">
+        <p>Reimagining Minecraft with beautiful visuals while preserving its classic aesthetic.</p>
+        
+        <!-- Download Button -->
+        <a href="https://github.com/TheGlitchHunter/Legacy-Reforged/releases/latest/download/legacy-reforged.zip" class="download-button" id="hero-download-button">Download</a>
+
+        <!-- New Buttons for Screenshots and Previous Releases -->
+        <div class="hero-secondary-buttons">
+            <a href="#screenshots" class="hero-screenshots-button" id="hero-screenshots-button">Screenshots</a>
+            <a href="https://modrinth.com/resourcepack/legacy-reforged" class="previous-releases-button" id="previous-releases-button">Releases</a>
+        </div>
+    </div>
+</section>
+
+<!-- Screenshots Section -->
+<section id="screenshots">
+    <h2>Screenshots</h2>
+    <p>Explore some visuals from Legacy Reforged.</p>
+
+    <div class="gallery">
+        <div class="gallery-item">
+            <img src="/media/sculk.jpg" alt="Screenshot 1" class="screenshot">
+        </div>
+        <div class="gallery-item">
+            <img src="/media/copper.jpg" alt="Screenshot 2" class="screenshot">
+        </div>
+        <div class="gallery-item">
+            <img src="/media/nether-portal.jpg" alt="Screenshot 3" class="screenshot">
+        </div>
+
+        <div class="gallery-item second-row">
+            <img src="/media/porch-stairs.jpg" alt="Screenshot 4" class="screenshot">
+        </div>
+        <div class="gallery-item second-row">
+            <img src="/media/metals.jpg" alt="Screenshot 5" class="screenshot">
+        </div>
+        <div class="gallery-item second-row">
+            <img src="/media/crafting-table.jpg" alt="Screenshot 6" class="screenshot">
+        </div>
+    </div>
+</section>
+
+<!-- The Modal -->
+<div id="screenshot-modal" class="modal">
+    <img class="modal-content" id="modal-img" alt="Expanded Screenshot">
+</div>
+
+<!-- Footer -->
+<footer>
+    <p>© 2024 Legacy Reforged. All rights reserved.</p>
+</footer>
+
+<script type="module" src="/src/main.js"></script>
+
+</body>
+</html>
