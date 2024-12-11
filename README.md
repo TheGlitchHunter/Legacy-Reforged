@@ -17,3 +17,7 @@ To unlock the full potential of **Legacy Reforged**, you'll need to pair it with
 - [**Photon** by _sixthsurge_](https://modrinth.com/shader/photon-shader)
 - [**BSL** by _CaptTatsu_](https://modrinth.com/shader/bsl-shaders)
 - [**Complementary** by _EminGT_](https://modrinth.com/shader/complementary-reimagined)
+
+_(Make sure you enable any shader settings related to normalmaps, specular highlights, "Advanced Materials", etc.)_
+
+If you have any questions, concerns, or recommendations, feel free to contact me contact me at `glitch@legacy-reforged.com`.
