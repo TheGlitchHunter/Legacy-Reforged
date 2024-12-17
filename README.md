@@ -1,7 +1,7 @@
 
 **Legacy Reforged** is a 16x resolution resource pack that reimagines Minecraft’s classic textures with modern visual effects. Utilizing PBR _(Physically-Based Rendering)_, it adds depth, reflection, and realism to these iconic textures.
 
-### ╭── • Features Included • ──╮
+## ╭── • Features Included • ──╮
 
 - **Authentic 16x textures** inspired by Minecraft’s original design.
 - **Full LabPBR support**, including normal maps, specular maps, and POM.
@@ -10,7 +10,7 @@
 
 Whether you’re seeking nostalgia or looking for beautiful visuals, Legacy Reforged bridges the best of both worlds!
 
-### ╭── • Dependancies • ──╮
+## ╭── • Dependancies • ──╮
 
 To unlock the full potential of **Legacy Reforged**, you'll need to pair it with a shader that supports **LabPBR**. Here are a few I recommend:
 
