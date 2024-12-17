@@ -4,7 +4,7 @@
 ## ╭── • Features Included • ──╮
 
 - **Authentic 16x textures** inspired by Minecraft’s original design.
-- **Full LabPBR support**, including normal maps, specular maps, and full POM support.
+- **Full LabPBR support**, including normal maps, specular maps, and POM.
 - **High Compatibility**, seamlessly works with both **Iris** and **OptiFine** shaders.
 - **Preserves nostalgia** with textures designed to keep the legacy look intact while modernizing the feel.
 
