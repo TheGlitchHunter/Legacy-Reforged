@@ -15,7 +15,7 @@ Whether you’re seeking nostalgia or looking for beautiful visuals, Legacy Refo
 To unlock the full potential of **Legacy Reforged**, you'll need to pair it with a shader that supports **LabPBR**. Here are a few I recommend:
 
 - [**Photon** by _sixthsurge_](https://modrinth.com/shader/photon-shader)
-- [**Complementary** by _EminGT_]([https://modrinth.com/shader/complementary-reimagined)
+- [**Complementary** by _EminGT_](https://modrinth.com/shader/complementary-reimagined)
 - [**Bliss** by _X0nk_](https://modrinth.com/shader/bliss-shader)
 
 _(Make sure you enable any shader settings related to normal mapping, specular mapping, "Advanced Materials", Parallax Occlusion Mapping (POM), etc.)_
