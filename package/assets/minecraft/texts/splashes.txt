@@ -3,26 +3,26 @@ Back solving for 42...
 Breaking reality is kinda fun.
 BSL doesn't work!
 Check out our site @legacy-reforged.com
-Don�t panic, it�s only the void.
+Don’t panic, it’s only the void.
 Enderman just wants a hug.
 Hi!
-Imagine what could be achieved by someone who knows what they�re doing.
-I�m not lost, I'm just exploring...
+Imagine what could be achieved by someone who knows what they’re doing.
+I’m not lost, I'm just exploring...
 Is it too late to reset the universe?
-It�s dangerous to go alone!
-Let�s not talk about that Creeper incident...
+It’s dangerous to go alone!
+Let’s not talk about that Creeper incident...
 Loading...
-Lost in thought� and the Nether.
+Lost in thought… and the Nether.
 Lumen RTX was real!
 Not all who wander are lost.
-Punching trees� as usual.
+Punching trees… as usual.
 Reality is overrated anyway.
 The cake is a lie!
 The limit does not exist.
-There�s no such thing as too many torches.
+There’s no such thing as too many torches.
 To craft or not to craft? That is the question.
 Simulating light...
-You had one job� to stop the Creeper.
+You had one job… to stop the Creeper.
 You know the rules, and so do I
 You're pronouncing Wednesday wrong.
 
@@ -39,7 +39,6 @@ Bliss
 Change
 Climax
 Cloak
-Close
 Cold
 Comparison
 Conflict
@@ -51,7 +50,6 @@ Depth
 Departure
 Difference
 Distance
-Despair
 Dreams
 Empty
 Encounter
@@ -80,7 +78,137 @@ Light
 Limitation
 Lonesome
 Lost
-Lowered
+Luminance
+Memory
+Mental
+Night
+Nostalgia
+Occasion
+Once
+Other
+Pursue
+Pressure
+Process
+Quickly
+Quiet
+Reality
+Reflection
+Remember?
+Restless
+Rhythm
+Ring
+Road
+Sense
+Shore
+Sides
+Silence
+Since
+Solace
+Sometimes
+Soon
+Spaced
+Step
+Suppression
+Sure
+System 32
+Taken
+Temporary
+TENET
+Timeless
+Translucence
+Undefined
+Unrealistic
+Waiting
+Walls
+Wanted
+When?
+Why?
+Why sleep?
+Wondered
+Worth
+XCloud
+Zenith
+
+.3V31J38
+Back solving for 42...
+Breaking reality is kinda fun.
+BSL doesn't work!
+Check out our site @legacy-reforged.com
+Don’t panic, it’s only the void.
+Enderman just wants a hug.
+Hi!
+Imagine what could be achieved by someone who knows what they’re doing.
+I’m not lost, I'm just exploring...
+Is it too late to reset the universe?
+It’s dangerous to go alone!
+Let’s not talk about that Creeper incident...
+Loading...
+Lost in thought… and the Nether.
+Lumen RTX was real!
+Not all who wander are lost.
+Punching trees… as usual.
+Reality is overrated anyway.
+The cake is a lie!
+The limit does not exist.
+There’s no such thing as too many torches.
+To craft or not to craft? That is the question.
+Simulating light...
+You had one job… to stop the Creeper.
+You know the rules, and so do I
+You're pronouncing Wednesday wrong.
+
+
+09:41
+42
+Aetherial
+Aftermath
+Ambience
+Atlas
+Beginning
+Blank
+Bliss
+Change
+Climax
+Cloak
+Cold
+Comparison
+Conflict
+Confusion
+Contrast
+Corners
+Decline
+Depth
+Departure
+Difference
+Distance
+Dreams
+Empty
+Encounter
+Endlessness
+Escapism
+Falsehood
+Feel
+Finality
+Finite
+Flow
+Focus
+Forget
+Fusion
+Glitch
+Hidden
+Hope
+How?
+Ignorance
+Impossibility
+Isolation
+Last
+Layered
+Leave
+Lens
+Light
+Limitation
+Lonesome
+Lost
 Luminance
 Memory
 Mental
