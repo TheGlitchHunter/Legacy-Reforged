@@ -3,7 +3,7 @@
 # Configuration variables
 LOCAL_DIR="dist/"      # Path to your local site build directory
 REMOTE_USER="root"          # SSH username for the server
-REMOTE_HOST="legacy-reforged.com"        # Hostname or IP of the server
+REMOTE_HOST="ssh.legacy-reforged.com"        # Hostname or IP of the server
 REMOTE_DIR="../var/www/caleb/legacy-reforged.com/html"  # Path to the destination folder on the server
 
 # Step 1: Build the site
